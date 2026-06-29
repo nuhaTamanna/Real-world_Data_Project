@@ -1,4 +1,4 @@
-# Real-world Data Project: Heart Disease Prediction Using Machine Learning
+# Real-world Data Project: Heart Disease Prediction
 
 ## Introduction
 
